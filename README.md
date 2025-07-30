@@ -7,7 +7,7 @@ npm run dev
 vercel deployed frontend link :- https://image-drive-1yma.vercel.app/login 
 
 credentials:-
-email: amarjeetchoudhary647@gmail.com
+email: amarjeetchoudhary647@gmail.com,
 password:- manishbhai
 
 
